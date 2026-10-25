@@ -1,0 +1,33 @@
+# Session 2 data: the prediabetes registry (fictional)
+
+All values are simulated. Kestrel Valley Health does not exist.
+
+Adults whose hemoglobin A1c at an index visit between January 2021 and September 2022 was 5.7 to 6.4%, followed for
+3 years. Data were extracted in October 2025.
+
+| File | What it is |
+|---|---|
+| `site_a.csv` | 5,000 patients at Kestrel Valley Health's original clinics (Lab 3 trains and tests here) |
+| `site_b.csv` | 2,000 patients at four clinics acquired in 2024, which send A1c tests to a different laboratory |
+| `data_dictionary.csv` | Every column, what it means, and when it was recorded |
+
+| Column | Meaning | Recorded |
+|---|---|---|
+| `patient_id` | Study ID (A00001... at Site A, B00001... at Site B) | identifier |
+| `age` | Age in years | index visit |
+| `female` | 1 = female, 0 = male | index visit |
+| `bmi` | Body mass index (kg/m²) | index visit |
+| `a1c` | Hemoglobin A1c (%) that qualified the patient for the cohort (5.7 to 6.4) | index visit |
+| `fpg` | Fasting plasma glucose (mg/dL); blank if no fasting sample was drawn | index visit |
+| `sbp` | Systolic blood pressure (mmHg) | index visit |
+| `hdl` | HDL cholesterol (mg/dL) | index visit |
+| `triglycerides` | Triglycerides (mg/dL) | index visit |
+| `family_history` | 1 = a parent or sibling has diabetes | index visit |
+| `hypertension` | 1 = hypertension on the problem list | index visit |
+| `statin` | 1 = taking a statin | index visit |
+| `smoker` | 1 = current smoker | index visit |
+| `metformin_started` | 1 = metformin on the medication list | data extraction (Oct 2025) |
+| `n_a1c_tests` | Number of A1c results in the record | data extraction (Oct 2025) |
+| `t2d_3yr` | 1 = type 2 diabetes diagnosed within 3 years of the index visit | outcome |
+
+Lab 4 has no data file: the birth-center model's inputs are the numbers in its `BASELINE` settings.
