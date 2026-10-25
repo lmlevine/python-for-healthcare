@@ -1,0 +1,242 @@
+participant_id,site,arm,randomization_date,age,sex,bmi,diabetes,smoker,n_bp_meds
+KV1001,South,Usual care,2025-01-06,57,F,38.0,no,,1
+KV1002,South,Usual care,2025-01-06,50,F,35.9,yes,,2
+KV1003,North,Coaching,2025-01-07,39,M,22.6,no,no,1
+KV1004,North,Usual care,2025-01-07,85,M,29.9,no,no,2
+KV1005,North,Usual care,2025-01-08,61,M,31.7,no,no,0
+KV1006,South,coaching,2025-01-08,53,F,29.7,no,,1
+KV1007,South,Coaching,2025-01-09,63,M,33.5,yes,,2
+KV1008,South,COACHING,2025-01-09,81,F,29.4,no,,4
+KV1009,North,Coaching,2025-01-10,57,M,27.8,yes,no,0
+KV1010,North,Usual care,2025-01-13,57,F,25.4,no,yes,4
+KV1011,North,Coaching,2025-01-13,59,F,23.0,no,no,0
+KV1012,South,Coaching,2025-01-13,45,M,33.3,no,,0
+KV1013,South,Usual care,2025-01-13,52,F,35.6,yes,,0
+KV1014,South,Usual care,2025-01-13,55,M,30.6,yes,,0
+KV1015,South,Coaching,2025-01-15,42,F,,no,,2
+KV1016,North,Usual care,2025-01-16,71,M,30.0,no,no,1
+KV1017,North,Coaching,2025-01-17,70,M,32.6,yes,no,0
+KV1018,South,Usual care,2025-01-21,34,F,22.1,no,,1
+KV1019,South,Coaching,2025-01-21,67,M,25.9,no,,2
+KV1020,North,Coaching,2025-01-22,54,M,34.1,no,no,1
+KV1021,North,Usual care,2025-01-22,58,F,37.2,yes,no,2
+KV1022,North,Usual care,2025-01-22,78,M,27.0,no,no,2
+KV1023,North,Coaching,2025-01-23,57,M,31.2,yes,no,1
+KV1024,South,Usual care,2025-01-23,47,F,26.1,no,,1
+KV1025,South,Usual care,2025-01-23,64,M,31.3,no,,1
+KV1026,South,Usual care,2025-01-24,67,M,30.3,yes,,3
+KV1027,North,Usual Care,2025-01-27,47,M,38.1,yes,no,0
+KV1028,North,Coaching,2025-01-28,42,F,28.5,yes,no,0
+KV1029,North,Coaching,2025-01-28,58,M,32.4,no,no,2
+KV1030,South,coaching,2025-01-30,61,M,31.9,no,,2
+KV1031,South,Coaching,2025-01-31,71,F,32.2,no,,1
+KV1032,North,Usual Care,2025-02-03,69,M,29.4,yes,no,0
+KV1033,North,Usual care,2025-02-03,57,F,26.9,no,no,1
+KV1034,South,Usual care,2025-02-03,44,F,23.6,yes,,2
+KV1035,South,Usual care,2025-02-04,77,F,37.8,yes,,4
+KV1036,South,Coaching,2025-02-04,46,F,29.6,yes,,1
+KV1037,South,Coaching,2025-02-04,56,M,22.6,no,,1
+KV1038,North,usual care,2025-02-05,72,F,30.5,yes,no,1
+KV1039,North,Coaching,2025-02-06,62,M,30.7,no,yes,0
+KV1040,North,Coaching,2025-02-07,70,M,24.7,yes,no,2
+KV1041,South,Usual Care,2025-02-10,55,M,37.0,yes,,0
+KV1042,North,Usual care,2025-02-11,62,F,39.4,no,no,2
+KV1043,North,Coaching,2025-02-11,71,M,23.8,yes,yes,3
+KV1044,South,COACHING,2025-02-11,85,M,25.7,yes,,1
+KV1045,South,Usual care,2025-02-11,82,M,,yes,,1
+KV1046,South,Coaching,2025-02-11,85,M,23.5,no,,2
+KV1047,South,Usual care,2025-02-11,48,F,24.2,no,,1
+KV1048,South,Coaching,2025-02-12,79,M,27.9,no,,1
+KV1049,South,Coaching ,2025-02-12,49,F,34.4,no,,0
+KV1050,South,Usual Care,2025-02-14,65,M,28.7,no,,1
+KV1051,South,Usual care,2025-02-14,54,M,28.9,yes,,2
+KV1052,North,Usual care,2025-02-18,46,M,29.2,yes,no,2
+KV1053,North,Coaching,2025-02-18,44,F,32.6,no,no,2
+KV1054,North,Usual care,2025-02-18,55,F,28.1,no,no,0
+KV1055,North,Usual care,2025-02-19,70,F,29.8,no,no,2
+KV1056,North,Coaching,2025-02-19,76,F,23.9,no,yes,4
+KV1057,North,Coaching,2025-02-19,56,M,,yes,no,2
+KV1058,South,Coaching,2025-02-19,75,F,44.4,no,,0
+KV1059,South,Coaching,2025-02-19,63,M,38.8,no,,1
+KV1060,North,Coaching,2025-02-20,40,M,38.6,no,no,0
+KV1061,South,Usual care,2025-02-20,69,F,31.5,yes,,1
+KV1062,South,Coaching,2025-02-20,30,F,36.0,no,,2
+KV1063,North,Coaching,2025-02-21,60,F,,no,yes,0
+KV1064,North,Usual care,2025-02-21,70,F,34.8,yes,no,3
+KV1065,South,Coaching,2025-02-21,61,M,40.9,no,,0
+KV1066,North,Usual care,2025-02-24,61,M,,yes,no,0
+KV1067,North,Usual care,2025-02-24,63,F,31.3,no,no,1
+KV1068,South,Usual care,2025-02-24,52,F,28.9,no,,2
+KV1069,South,Usual care,2025-02-24,57,M,,no,,2
+KV1070,South,Coaching,2025-02-24,66,F,21.3,yes,,2
+KV1071,South,Usual care,2025-02-25,44,M,23.0,no,,1
+KV1072,North,Coaching,2025-02-26,64,F,41.6,yes,no,1
+KV1073,North,Coaching,2025-02-26,49,F,36.4,yes,no,2
+KV1074,South,Coaching,2025-02-26,73,M,40.4,no,,1
+KV1075,South,Usual care,2025-02-27,50,F,30.4,no,,0
+KV1076,South,Usual care,2025-02-27,58,F,,no,,1
+KV1077,North,Usual care,2025-02-28,38,F,28.8,no,no,4
+KV1078,North,Coaching,2025-02-28,61,F,34.3,no,no,3
+KV1079,North,usual care,2025-03-04,55,M,27.2,yes,no,4
+KV1080,South,Usual care,2025-03-04,64,F,26.0,no,no,0
+KV1081,North,Usual care,2025-03-05,52,M,29.3,yes,no,2
+KV1082,South,Coaching,2025-03-06,63,M,31.5,no,no,0
+KV1083,North,Coaching,2025-03-07,59,M,35.5,no,no,1
+KV1084,North,Usual care,2025-03-07,67,F,24.7,yes,no,2
+KV1085,North,Coaching,2025-03-07,48,F,,no,no,0
+KV1086,North,Coaching,2025-03-07,58,M,32.0,no,no,2
+KV1087,South,Coaching,2025-03-07,74,F,29.6,no,no,1
+KV1088,North,Usual care,2025-03-10,80,F,35.6,no,yes,0
+KV1089,North,Coaching,2025-03-11,35,M,35.5,yes,no,0
+KV1090,North,Coaching,2025-03-11,54,M,28.1,no,no,1
+KV1091,North,Usual care,2025-03-12,37,F,38.1,no,no,2
+KV1092,South,Usual care,2025-03-12,66,M,29.3,no,no,3
+KV1093,South,coaching,2025-03-12,46,F,37.3,no,no,1
+KV1094,North,Usual care,2025-03-13,59,M,24.7,no,no,4
+KV1095,North,Usual care,2025-03-14,51,F,24.8,no,no,4
+KV1096,North,Usual care,2025-03-14,70,M,24.1,yes,no,2
+KV1097,South,Usual care,2025-03-14,34,F,31.8,no,no,2
+KV1098,South,Coaching,2025-03-14,70,M,26.1,no,no,2
+KV1099,South,Coaching ,2025-03-14,55,F,26.2,no,no,0
+KV1100,North,coaching,2025-03-17,77,F,38.8,yes,no,1
+KV1101,South,Coaching,2025-03-17,65,M,30.3,yes,no,3
+KV1102,South,Usual care,2025-03-17,58,F,30.6,yes,no,0
+KV1103,North,Coaching,2025-03-18,44,F,31.1,no,no,1
+KV1104,North,Coaching,2025-03-19,59,M,34.6,no,yes,3
+KV1105,North,Usual care,2025-03-19,53,F,24.4,yes,no,3
+KV1106,North,Coaching,2025-03-20,45,M,,no,yes,2
+KV1107,North,Usual Care,2025-03-24,54,M,29.6,no,no,1
+KV1108,North,usual care,2025-03-24,51,M,31.5,no,no,2
+KV1109,South,Usual care,2025-03-24,68,M,36.5,no,no,0
+KV1110,North,usual care,2025-03-25,69,F,30.5,no,yes,1
+KV1111,North,Coaching,2025-03-25,56,M,24.2,no,no,1
+KV1112,North,Coaching,2025-03-25,54,F,29.1,yes,no,4
+KV1113,North,Coaching,2025-03-26,44,M,37.0,no,no,0
+KV1114,North,Usual Care,2025-03-26,65,M,29.1,no,no,2
+KV1115,North,Coaching,2025-03-26,57,M,31.4,no,yes,4
+KV1115,North,Coaching,2025-03-26,57,M,31.4,no,yes,4
+KV1116,North,Usual care,2025-03-27,40,M,28.0,no,no,2
+KV1117,North,Coaching,2025-03-27,41,M,22.4,yes,no,2
+KV1118,North,Usual care,2025-03-28,35,F,39.6,no,no,0
+KV1119,South,Coaching,2025-03-31,60,M,24.5,no,no,0
+KV1120,North,Usual care,2025-04-01,49,F,23.3,no,no,0
+KV1121,North,Coaching,2025-04-01,66,M,21.8,no,no,1
+KV1122,North,Coaching ,2025-04-01,59,F,36.1,no,no,0
+KV1123,North,Usual care,2025-04-01,50,F,32.4,no,no,2
+KV1124,South,coaching,2025-04-03,44,F,30.7,no,no,2
+KV1125,South,usual care,2025-04-03,72,M,35.3,yes,no,2
+KV1126,North,Coaching,2025-04-04,60,M,19.0,no,no,1
+KV1127,North,Usual Care,2025-04-04,53,F,27.6,no,no,0
+KV1128,South,Usual care,2025-04-04,62,M,36.2,no,no,3
+KV1129,North,Usual care,2025-04-08,81,F,20.6,no,no,2
+KV1130,South,Usual care,2025-04-08,71,F,21.2,no,no,4
+KV1131,South,Coaching,2025-04-08,48,F,40.9,no,no,0
+KV1132,South,Usual care,2025-04-08,68,F,33.5,no,no,3
+KV1133,South,coaching,2025-04-08,73,M,29.2,no,no,4
+KV1134,South,Coaching,2025-04-09,50,M,37.1,yes,yes,4
+KV1135,South,Usual care,2025-04-09,44,F,29.0,no,no,1
+KV1136,North,Coaching,2025-04-10,36,M,41.2,no,no,1
+KV1137,North,Coaching,2025-04-10,61,M,25.2,yes,no,2
+KV1138,South,coaching,2025-04-10,51,F,29.4,yes,no,0
+KV1139,South,Usual care,2025-04-14,67,M,31.8,no,no,0
+KV1140,South,coaching,2025-04-14,66,M,34.1,no,no,1
+KV1141,North,Usual care,2025-04-15,65,F,38.8,no,no,0
+KV1142,North,Usual care,2025-04-15,54,F,37.1,yes,yes,4
+KV1143,South,Usual care,2025-04-15,36,M,30.1,no,no,4
+KV1144,South,Coaching,2025-04-16,56,M,35.3,no,yes,1
+KV1145,North,Coaching,2025-04-17,47,F,36.6,no,no,1
+KV1146,North,Usual care,2025-04-17,59,F,33.3,no,no,1
+KV1147,South,Usual care,2025-04-17,56,M,30.2,no,no,1
+KV1148,South,Coaching,2025-04-17,58,M,43.2,yes,no,1
+KV1149,North,Coaching,2025-04-18,49,F,21.4,no,no,1
+KV1150,North,Usual care,2025-04-18,58,F,27.5,yes,no,1
+KV1151,North,Usual care,2025-04-18,68,F,26.8,no,no,0
+KV1152,North,Coaching,2025-04-21,75,F,33.9,no,no,0
+KV1153,North,Coaching,2025-04-21,68,F,35.2,no,no,2
+KV1154,South,Coaching,2025-04-21,47,M,22.8,yes,no,0
+KV1155,South,Usual care,2025-04-23,62,F,26.5,no,yes,1
+KV1156,South,Usual care,2025-04-23,71,F,26.9,no,no,0
+KV1157,North,Coaching,2025-04-24,75,F,22.1,yes,no,2
+KV1158,North,Usual care,2025-04-25,60,M,35.8,no,no,2
+KV1159,South,Usual Care,2025-04-25,53,F,26.9,no,no,1
+KV1160,North,Usual care,2025-04-28,57,F,36.1,no,yes,3
+KV1161,South,Usual care,2025-04-28,54,F,22.4,no,no,1
+KV1162,North,Coaching ,2025-04-30,61,F,,yes,no,1
+KV1163,North,Coaching,2025-04-30,70,M,23.4,no,yes,1
+KV1164,North,Coaching,2025-04-30,71,F,27.1,no,no,3
+KV1165,North,Usual care,2025-04-30,58,F,30.3,no,no,0
+KV1166,South,Coaching,2025-04-30,59,F,33.6,yes,no,1
+KV1167,North,Usual care,2025-05-01,56,F,38.3,yes,no,4
+KV1168,South,Coaching,2025-05-01,36,F,34.0,no,no,1
+KV1169,South,Coaching ,2025-05-02,49,F,32.4,no,no,3
+KV1170,South,Usual care,2025-05-02,62,F,30.6,no,yes,0
+KV1171,North,Coaching,2025-05-05,43,F,32.4,no,no,2
+KV1172,North,Coaching,2025-05-05,56,F,24.6,no,no,1
+KV1173,South,Coaching ,2025-05-05,56,F,25.4,no,no,2
+KV1174,South,Usual care,2025-05-05,51,F,31.7,no,no,3
+KV1175,South,Usual care,2025-05-05,43,M,26.2,no,no,1
+KV1176,North,Usual care,2025-05-06,65,M,19.0,no,no,2
+KV1177,North,Usual care,2025-05-06,45,M,33.4,yes,no,2
+KV1178,North,Usual care,2025-05-06,64,F,22.2,no,no,1
+KV1179,South,Coaching,2025-05-06,66,F,31.1,yes,no,0
+KV1180,South,Coaching,2025-05-06,43,F,22.9,no,no,1
+KV1181,North,Coaching,2025-05-07,66,M,25.3,no,no,1
+KV1182,South,Usual care,2025-05-08,67,M,30.1,yes,no,2
+KV1183,South,Usual care,2025-05-08,47,F,30.5,no,no,0
+KV1184,South,Usual care,2025-05-09,38,F,31.1,no,no,3
+KV1185,South,Coaching,2025-05-09,35,F,24.6,no,yes,3
+KV1186,South,Coaching,2025-05-12,51,M,36.0,yes,no,4
+KV1187,North,Coaching,2025-05-13,64,F,38.3,no,no,2
+KV1188,South,Coaching,2025-05-13,79,M,31.2,yes,no,0
+KV1189,North,Usual care,2025-05-14,50,F,35.1,no,yes,2
+KV1190,South,Usual care,2025-05-14,78,F,31.5,no,no,0
+KV1191,North,Usual care,2025-05-16,62,M,19.0,no,no,2
+KV1192,North,usual care,2025-05-16,77,M,,no,no,1
+KV1193,North,Coaching,2025-05-19,62,M,37.4,no,yes,2
+KV1194,North,Coaching,2025-05-19,57,M,21.6,no,yes,0
+KV1195,North,Coaching,2025-05-19,55,F,26.7,yes,no,1
+KV1196,North,Usual care,2025-05-19,64,M,32.0,no,no,0
+KV1197,South,Coaching,2025-05-19,42,F,,no,no,1
+KV1198,North,Usual care,2025-05-20,57,M,37.2,no,no,2
+KV1199,South,Usual care,2025-05-20,40,M,31.7,yes,yes,2
+KV1200,North,Coaching,2025-05-21,71,F,34.9,yes,no,1
+KV1201,South,usual care,2025-05-21,33,M,29.3,yes,no,3
+KV1202,North,Coaching,2025-05-22,51,F,36.7,yes,no,3
+KV1203,South,Usual care,2025-05-22,48,F,21.8,no,no,2
+KV1204,North,Usual care,2025-05-23,52,M,35.6,no,no,0
+KV1205,North,Usual care,2025-05-23,66,F,,yes,no,2
+KV1206,South,coaching,2025-05-23,48,M,19.6,no,no,0
+KV1207,South,Coaching,2025-05-28,56,F,30.0,no,no,2
+KV1208,South,Coaching,2025-05-28,57,F,27.3,no,no,2
+KV1209,North,Coaching,2025-05-30,73,M,44.8,no,no,0
+KV1210,South,Usual care,2025-06-02,65,M,30.9,yes,no,0
+KV1211,South,Usual care,2025-06-02,60,M,21.6,yes,yes,0
+KV1212,North,Coaching,2025-06-03,67,M,37.1,no,no,1
+KV1213,South,Coaching,2025-06-05,45,F,23.3,yes,no,2
+KV1214,North,Usual care,2025-06-09,59,M,27.4,no,yes,1
+KV1215,North,Usual care,2025-06-10,66,M,28.2,no,no,1
+KV1216,South,Usual care,2025-06-11,69,M,21.2,no,no,1
+KV1217,South,Coaching,2025-06-11,56,M,27.7,no,no,1
+KV1218,North,COACHING,2025-06-12,62,F,22.5,yes,no,3
+KV1219,South,Usual care,2025-06-12,46,F,31.7,no,no,4
+KV1220,North,Coaching,2025-06-16,74,F,30.1,no,no,2
+KV1221,North,Coaching,2025-06-17,59,M,22.9,yes,no,0
+KV1222,North,Usual care,2025-06-18,75,M,28.3,yes,yes,1
+KV1223,South,Coaching ,2025-06-18,48,M,30.8,no,no,2
+KV1224,North,Usual care,2025-06-20,59,M,25.0,yes,no,1
+KV1225,South,Coaching,2025-06-20,47,F,22.5,yes,no,1
+KV1226,North,usual care,2025-06-23,65,F,29.2,yes,no,2
+KV1227,North,Usual care,2025-06-23,58,M,36.8,yes,no,2
+KV1228,North,Coaching,2025-06-24,62,F,38.6,no,no,0
+KV1229,North,Coaching,2025-06-24,70,M,35.5,yes,yes,0
+KV1230,North,Usual care,2025-06-24,61,F,,yes,no,0
+KV1231,South,Coaching,2025-06-24,79,F,35.4,yes,no,1
+KV1232,South,Usual care,2025-06-24,60,M,29.6,no,no,0
+KV1233,North,COACHING,2025-06-25,54,M,26.6,no,no,0
+KV1234,North,Usual care,2025-06-25,52,M,33.2,no,yes,3
+KV1235,South,Usual care,2025-06-25,67,M,37.3,no,yes,0
+KV1236,North,Coaching,2025-06-26,50,F,32.8,yes,no,1
+KV1237,South,Coaching,2025-06-26,61,F,27.1,no,yes,0
+KV1238,South,Usual care,2025-06-26,57,F,26.0,no,no,1
+KV1239,North,Usual care,2025-06-27,55,M,38.2,yes,no,0
+KV1240,North,Coaching,2025-06-27,60,M,29.4,no,yes,2
